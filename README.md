@@ -4,7 +4,6 @@
 
 ### 1. Backend con Node.js
 - [Curso de Backend con Node.js](https://platzi.com/cursos/backend-nodejs/)
-- [Curso de Express.js](https://platzi.com/cursos/express-js/)
 - [Curso de MongoDB](https://platzi.com/cursos/mongodb/)
 
 ### 2. API Development
